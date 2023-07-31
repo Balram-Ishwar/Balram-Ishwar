@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balram-Ishwar
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Project
+- 👀 I’m interested in Full Stack Developement 
+- 🌱 I’m currently learning MERN Stack 
+- 💞️ I’m looking to collaborate on Full Stack Project
 - 📫 How to reach me ishwarbalram22@gmail.com
 
 <!---

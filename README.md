@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balram-Ishwar
 - 👀 I’m interested in Full Stack Developement 
-- 🌱 I’m currently learning MERN Stack 
+- 🌱 I’m currently learning Java full Stack 
 - 💞️ I’m looking to collaborate on Full Stack Project
 - 📫 How to reach me ishwarbalram22@gmail.com
 
